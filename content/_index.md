@@ -15,3 +15,4 @@ You can find out more [about me](/about/) or checkout my [projects](/projects/)
 * CI/CD & Devops
 * Project Architecture
 * Technical communication
+
