@@ -8,7 +8,7 @@ I'm co-vice president of the {{< externallink TasGameMakers "https://tasgamemake
 
 You can find out more [about me](/about/) or checkout my [projects](/projects/)
 
-## Key Strengths
+## Key Strengths & Interests
 
 * Unity and Godot Game Engines
 * C#, Kotlin, Java
@@ -16,3 +16,4 @@ You can find out more [about me](/about/) or checkout my [projects](/projects/)
 * Project Architecture
 * Technical communication
 
+## Posts

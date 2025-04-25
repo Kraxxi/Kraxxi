@@ -4,8 +4,8 @@ An overview of the type of work I've done in the past.
 
 ## Websites
 
-* [Robin-Mary Calvert](https://robin-marycalvert.com)
-* [RC Auhof](https://rcauhof.de)
+* {{< externallink "Robin-Mary Calvert" "https://robin-marycalvert.com" >}}
+* {{< externallink "RC Auhof" "https://rcauhof.de" >}}
 
 ## Games
 
