@@ -2,8 +2,10 @@ baseURL = 'https://michaelhinz.dev'
 languageCode = 'en-us'
 title = 'Michael Hinz'
 theme = "hugo-theme-m10c"
-googleAnalytics = 'G-QCT2XJGN83'
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-QCT2XJGN83'
 
 [menu]
   [[menu.main]]
@@ -21,6 +23,11 @@ googleAnalytics = 'G-QCT2XJGN83'
     name = "Projects"
     url = "/projects/"
     weight = 3
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 4
 
 
 [params]
@@ -34,15 +41,11 @@ googleAnalytics = 'G-QCT2XJGN83'
     name = "Email"
     url = "mailto:michaelhinz.mh@googlemail.com"    
   [[params.social]]
-    icon = "heart"
-    name = "Mastodon"
-    url = "https://mastodon.social/@michaelhinz"
+    icon = "brand-bluesky"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/michaelhinz.dev"
   [[params.social]]
-    icon = "github"
+    icon = "brand-github"
     name = "Github"
-    url = "https://github.com/kraxxi"    
-  [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/michelhinz"  
+    url = "https://github.com/kraxxi"
   
