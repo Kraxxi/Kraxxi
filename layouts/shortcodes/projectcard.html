@@ -1,0 +1,11 @@
+<div class="col-lg-6 d-flex align-items-stretch" style="padding-bottom: 20px;">
+    <div class="card text-white bg-dark"><img class="card-img-top w-100 d-block" src="{{ .Get 2 }}">
+        <div class="card-body card-body d-flex flex-column">
+            <h4 class="card-title">{{ .Get 0 }}</h4>
+            <p class="card-text">{{ .Get 1 }}</p>
+            <div class="mt-auto">
+                <a class="btn btn-{{ .Get 5 }}" role="button" href="{{ .Get 3 }}" target="{{ .Get 6 }}">{{ .Get 4 }}</a>
+            </div>
+        </div>
+    </div>
+</div>

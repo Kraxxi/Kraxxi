@@ -1,0 +1,55 @@
+baseURL = 'https://michaelhinz.dev'
+languageCode = 'en-us'
+title = 'Michael Hinz'
+theme = "hugo-theme-m10c"
+googleAnalytics = 'G-QCT2XJGN83'
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+
+[params]
+  author = "Michael Hinz"
+  description = " "
+  avatar = "/Michael Hinz.jpg"
+  menu_item_separator = " - "
+  #favicon = "/favicon.ico"
+  [[params.social]]
+    icon = "mail"
+    name = "Email"
+    url = "mailto:michaelhinz.mh@googlemail.com"    
+  [[params.social]]
+    icon = "heart"
+    name = "Mastodon"
+    url = "https://mastodon.social/@michaelhinz"
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/kraxxi"    
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/michelhinz"  
+
+
+  
+
+[module]
+  [[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
