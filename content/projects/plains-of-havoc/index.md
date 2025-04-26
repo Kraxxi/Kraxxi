@@ -11,6 +11,6 @@ Plains of Havoc is the continuation of my TasJam submission, {{< externallink "T
 
 The main objective is to publish Plains of Havoc on Steam to go through all the required steps of successfully launching a title. I'm using this project as a learning opportunity for marketing and publishing as well as to experiment with some combat gameplay mechanics. I can then apply the lessons learned to [Ares](/projects/ares) to make sure that it has the largest chance of success.
 
-As this project is fairly small in scope I'm hoping to get away with mostly free art assets provided by [Kenny](https//kenney.nl) and possibly do a graphics overhaul if I'm able to raise some funds or after a successful release.
+As this project is fairly small in scope I'm hoping to get away with mostly free art assets provided by {{< externallink "Kenny" "https://kenney.ln" >}} and possibly do a graphics overhaul if I'm able to raise some funds or after a successful release.
 
 {{< video plains-of-havoc.mp4>}}

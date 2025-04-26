@@ -23,6 +23,11 @@ theme = "hugo-theme-m10c"
     name = "Resume"
     url = "/resume/"
     weight = 3
+  [[menu.main]]
+    identifier = "kofi"
+    name = "Ko-Fi"
+    url = "https://ko-fi.com/michaelhinz"
+    weight = 4
 
 
 [params]

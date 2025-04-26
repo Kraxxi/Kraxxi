@@ -6,7 +6,7 @@ I founded {{< externallink "Tiny Island Games" "https://tinyislandgames.com" >}}
 
 I'm co-vice president of the {{< externallink TasGameMakers "https://tasgamemakers.com" >}} where we plan and organize community events, social get-togethers and provide feedback, advice and mentorship to hobbyists and students in the games industry.
 
-You can find out more [about me](/about/) or checkout my [projects](/projects/)
+You can find out more [about me](/about/) or checkout my [projects](/projects/).
 
 ## Key Strengths & Interests
 
